@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 
+/workspace.xml
+target/
+*/target/**
+
 # Log file
 *.log
 
